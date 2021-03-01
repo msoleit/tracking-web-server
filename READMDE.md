@@ -1,5 +1,10 @@
 # Tracking Web Server 
 
+## Run Server: 
+- `go run server.go`
+
+
+## Endpoints:
 ### /ping
 
 - returns 200 Ok if `/tmp/ok exists`
